@@ -1,7 +1,7 @@
 # Tracking of cell blebbing in biomedical images
 This is the final project in the course [Bioimage Informatics](https://edu.epfl.ch/coursebook/en/bioimage-informatics-BIO-410) at EPFL. 
 
-Blebs are bulges in the plasma membrane of cells and can be seen in cell apoptosis, cell displacement and cell division amongst others. We seek to automatic tracking of growth and displacement of such blebs through a series of medical images. We prerpocessing of images and active contour to track blebs.
+Blebs are bulges in the plasma membrane of cells and can be seen in cell apoptosis, cell displacement and cell division amongst others. We seek automatic tracking of growth and displacement of such blebs through a series of medical images. We prepocess images and use active contour to track the blebs.
 
 Some results:
 <p float="left">
