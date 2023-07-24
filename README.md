@@ -1,3 +1,18 @@
+# Tracking of cell blebbing in biomedical images
+This is the final project in the course [Bioimage Informatics](https://edu.epfl.ch/coursebook/en/bioimage-informatics-BIO-410) at EPFL. 
+
+Blebs are bulges in the plasma membrane of cells and can be seen in cell apoptosis, cell displacement and cell division amongst others. We seek automatic tracking of growth and displacement of such blebs through a series of medical images. We prepocess images and use active contour to track the blebs.
+
+Some results:
+<p float="left">
+  <img src="images/blebs.gif" width="100" />
+  <img src="images/bleb_area.pdf" width="100" /> 
+</p>
+<p float="left">
+  <img src="images/bleb_2s.gif" width="100" />
+  <img src="images/bleb_area_2.pdf" width="100" /> 
+</p>
+
 # Setup
 This setup assumes you have Python 3 and Jupyter installed
 
