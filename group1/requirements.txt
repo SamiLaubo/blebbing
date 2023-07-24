@@ -1,0 +1,11 @@
+python-csv
+opencv-python
+interactive_kit
+ipywidgets
+matplotlib
+numpy
+Pillow
+scikit-image
+imageio
+openpyxl
+tqdm

@@ -1,0 +1,8 @@
+.idea/
+.ipynb_checkpoints/
+data/
+blebbing_venv/
+__pycache__/
+
+output/
+test_data/
