@@ -5,12 +5,12 @@ Blebs are bulges in the plasma membrane of cells and can be seen in cell apoptos
 
 Some results:
 <p float="left">
-  <img src="media/blebs.gif" width="100" />
-  <img src="media/bleb_area.pdf" width="100" /> 
+  <img src="media/blebs.gif" height="400" />
+  <img src="media/bleb_area.png" height="400" /> 
 </p>
 <p float="left">
-  <img src="media/bleb_2s.gif" width="100" />
-  <img src="media/bleb_area_2.pdf" width="100" /> 
+  <img src="media/blebs_2.gif" height="400" />
+  <img src="media/bleb_area_2.png" height="400" /> 
 </p>
 
 # Setup
